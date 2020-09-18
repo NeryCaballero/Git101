@@ -6,3 +6,9 @@ word 4
 word 5
 Change 3 : removed words 1 and 2.
 Branch1: created a new branch.
+Change 1 on branch1: added 5 colors
+color 1 red
+color 2 blue
+color 3 green
+color 4 white
+color 5 purple
