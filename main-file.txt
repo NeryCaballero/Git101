@@ -1,7 +1,11 @@
 This is the main file where I will start applyig changes.
 Change 1 : added a line of text
 Change 2 : added a list of 5 words
+word 1
+word 2
 word 3
 word 4
 word 5
 Change 3 : removed words 1 and 2.
+Change 4: created another branch, added stuff there. 
+Change 5: added back words 1 and 2.
